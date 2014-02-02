@@ -1,0 +1,38 @@
+{
+  "name": "bc-node-request-filter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/buttercoin/bc-node-request-filter",
+  "author": {
+    "name": "Kevin Adams",
+    "email": "kevin@buttercoin.com",
+    "url": "http://www.buttercoin.com"
+  },
+  "description": "Express Middleware Module for filtering incoming requests by IP",
+  "contributors": [
+    {
+      "name": "Kevin Adams",
+      "email": "kevin@buttercoin.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buttercoin/bc-node-request-filter"
+  },
+  "keywords": [
+    "mimosa",
+    "module",
+    "express",
+    "package",
+    "packaging"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "main": "./lib/index",
+  "bugs": {
+    "url": "https://github.com/buttercoin/bc-node-request-filter/issues"
+  },
+  "_id": "bc-node-request-filter@0.0.1",
+  "_from": "bc-node-request-filter@"
+}
