@@ -34,5 +34,8 @@
     "url": "https://github.com/buttercoin/bc-node-request-filter/issues"
   },
   "_id": "bc-node-request-filter@0.0.1",
-  "_from": "bc-node-request-filter@"
+  "_from": "bc-node-request-filter@",
+  "dependencies": {
+    "insubnet": "0.0.7"
+  }
 }
